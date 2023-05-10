@@ -7,13 +7,37 @@
 >
         <v-carousel-item 
         class="imgCarousel"
-        v-for="item in CarouselText"
-          :src="item.img"
+        
+          src="img/plamontagna.jpg"
           cover
         >
         <div class="imgtext">
-          <h2>{{item.titolo}}</h2>
-          <p>{{item.autore}} </p>
+          <h2>INFOGRAFICA</h2>
+          <p>Gruppo 123 </p>
+        </div>
+      </v-carousel-item>
+
+      <v-carousel-item 
+        class="imgCarousel"
+        
+          src="img/1294117.png"
+          cover
+        >
+        <div class="imgtext">
+          <h2>LOGO</h2>
+          <p>Gruppo 123 </p>
+        </div>
+      </v-carousel-item>
+
+      <v-carousel-item 
+        class="imgCarousel"
+        
+          src="img/tappi.jpg"
+          cover
+        >
+        <div class="imgtext">
+          <h2>FUMETTO</h2>
+          <p>Gruppo 123 </p>
         </div>
       </v-carousel-item>
       
@@ -48,25 +72,3 @@
     font-size:90px;
   }
 </style>
-<script setup>
-
-
-import { ref } from 'vue';
-
-const CarouselText=[
-    {
-        titolo:"LOGO",autore:"Gruppo 1 ", img:"img/plamontagna.jpg"
-    },
-    {
-        titolo:"INFOGRAFICA",autore:"Gruppo 1", img:"img/1294117.png"
-    },
-    {
-        titolo:"FUMETTO",autore:"Gruppo 3",img:"img/tappi.jpg"
-    },
-    
-    
-    
-   
-]
-
-</script>
