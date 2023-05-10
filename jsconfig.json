@@ -2,7 +2,7 @@
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
-    "baseUrl": "/",
+    "baseUrl": "https://github.com/lellesessuale/project_plastic.git",
     "moduleResolution": "node",
     "paths": {
       "@/*": [
