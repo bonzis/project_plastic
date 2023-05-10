@@ -8,7 +8,7 @@
         <v-carousel-item 
         class="imgCarousel"
         
-          src="img/plamontagna.jpg"
+          src="../../public/img/plamontagna.jpg"
           cover
         >
         <div class="imgtext">
@@ -20,7 +20,7 @@
       <v-carousel-item 
         class="imgCarousel"
         
-          src="img/1294117.png"
+          src="../../public/img/1294117.png"
           cover
         >
         <div class="imgtext">
@@ -32,7 +32,7 @@
       <v-carousel-item 
         class="imgCarousel"
         
-          src="img/tappi.jpg"
+          src="../../public/img/tappi.jpg"
           cover
         >
         <div class="imgtext">

@@ -5,7 +5,7 @@
     <v-app-bar-nav-icon id="hamburger" @click.stop="drawer = !drawer" ></v-app-bar-nav-icon>
     <img id ="logores" class="logo"
             
-            src="img/logo.png"
+            src="../../public/img/logo.png"
             
             
             />
@@ -14,7 +14,7 @@
        <li>
             <img class="logo" 
             
-            src="img/logo.png"
+            src="../../public/img/logo.png"
             
             
             />
