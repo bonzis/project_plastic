@@ -1,1 +1,0 @@
-import{_ as a}from"./Banner-c3cdbeac.js";import{H as t,J as e}from"./index-1fdd0dd0.js";const c={__name:"Typeplastic",setup(r){return(n,p)=>(t(),e(a,{titleBanner:"I TIPI DI PLASTICA VANTAGGI E SVANTAGGI",imgUrlBanner:"../../img/tantaplas.jpg"}))}};export{c as default};

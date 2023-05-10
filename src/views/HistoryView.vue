@@ -1,6 +1,6 @@
 <template>
 
-    <Banner titleBanner="COSA È LA PLASTICA E LA SUA STORIA" imgUrlBanner="../../img/tappi.jpg" />
+    <Banner titleBanner="COSA È LA PLASTICA E LA SUA STORIA" imgUrlBanner="img/tappi.jpg" />
 
 <v-container class="historyContent">
     <v-row  
@@ -17,7 +17,7 @@ Eos commodi consequatur architecto labore, exercitationem sunt dolores quisquam 
 Odit ullam repellendus eaque, provident veritatis id doloribus aperiam eos libero sint recusandae a fuga laudantium culpa neque exercitationem! Aliquid enim, voluptatem hic atque labore non sed unde dolorum incidunt!</p>
 </v-col>
 <v-col class="picAlexList">
-<img src="../../img/alexander_sfondo.jpg" class="picAlex"/>
+<img src="img/alexander_sfondo.jpg" class="picAlex"/>
 </v-col>
 </v-row>
 </v-container>

@@ -55,13 +55,13 @@ import { ref } from 'vue';
 
 const CarouselText=[
     {
-        titolo:"LOGO",autore:"Gruppo 1 ", img:"../../img/plamontagna.jpg"
+        titolo:"LOGO",autore:"Gruppo 1 ", img:"img/plamontagna.jpg"
     },
     {
-        titolo:"INFOGRAFICA",autore:"Gruppo 1", img:"../../img/1294117.png"
+        titolo:"INFOGRAFICA",autore:"Gruppo 1", img:"img/1294117.png"
     },
     {
-        titolo:"FUMETTO",autore:"Gruppo 3",img:"../../img/tappi.jpg"
+        titolo:"FUMETTO",autore:"Gruppo 3",img:"img/tappi.jpg"
     },
     
     

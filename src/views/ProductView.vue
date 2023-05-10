@@ -22,13 +22,13 @@ import { ref } from 'vue';
 
 const ciao=[
     {
-        titolo:"Logo",autore:"Il logo del progetto!",img:"../../img/logo.png"
+        titolo:"Logo",autore:"Il logo del progetto!",img:"img/logo.png"
     },
     {
-        titolo:"Infografica",autore:"Una breve infografica che racconta il mondo della sostenibilità \n, mantenendo il focus sullo spreco della plastica",img:"../../img/1294117.png"
+        titolo:"Infografica",autore:"Una breve infografica che racconta il mondo della sostenibilità \n, mantenendo il focus sullo spreco della plastica",img:"img/1294117.png"
     },
     {
-        titolo:"Fumetto",autore:"un fumetto che sfrutta un contesto divertente per fungere da denuncia per quanto riguarda lo spreco della plastica" ,img:"../../img/tappi.jpg"
+        titolo:"Fumetto",autore:"un fumetto che sfrutta un contesto divertente per fungere da denuncia per quanto riguarda lo spreco della plastica" ,img:"img/tappi.jpg"
     },
 ]
 
